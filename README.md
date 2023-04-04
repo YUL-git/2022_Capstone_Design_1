@@ -4,4 +4,4 @@ Graphical solution that recommend system for customer
 > Presentation : [아이스탁몰_쇼핑몰_추천시스템_발표_자료.pdf](./figures/아이스탁몰_쇼핑몰_추천시스템_발표_자료.pdf)   
   
 ## Solution Overview
-![overview image]
+![overview image](./figures/overview.png)  
